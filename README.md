@@ -33,7 +33,7 @@ Based on the insights from user profiling and trend analysis, our system deliver
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sayantani-12/unified_trend_driven_personalization_and_forecasting_system.git
+   git clonehttps://github.com/Aditi0257e/Unified_trend_driven_personalization_and_forecasting_system.git
    cd unified_trend_driven_personalization_and_forecasting_system
    ```
 2. Create a virtual environment:
